@@ -26,6 +26,29 @@ Here are some ideas to get you started:
 - 💡 Estoy interesado en Desarrollo Web, Ciencia de Datos, IA y demas
 - 📫 Puedes contactarme en santiago22santisteban@gmail.com.
 
+## Tecnologías y Herramientas
+
+[![Python](https://img.icons8.com/color/48/000000/python.png)](https://icons8.com/icon/12584/python)
+[![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)](https://icons8.com/icon/GPfHz0SM85FX/java)
+[![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)](https://icons8.com/icon/PXTY4q2Sq2lG/javascript)
+[![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)](https://icons8.com/icon/TpULddJc4gTh/c%2B%2B)
+[![R Project](https://img.icons8.com/color/48/000000/r.png)](https://icons8.com/icon/CLvQeiwFpit4/r-project)
+[![HTML5](https://img.icons8.com/color/48/000000/html-5.png)](https://icons8.com/icon/20909/html-5)
+[![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)](https://icons8.com/icon/EzPCiQUqWWEa/bootstrap)
+[![CSS3](https://img.icons8.com/color/48/000000/css3.png)](https://icons8.com/icon/7gdY5qNXaKC0/css3)
+[![JetBrains Toolbox](https://img.icons8.com/color/48/000000/jetbrains.png)](https://icons8.com/icon/vQoQDtNbTLVE/jetbrains-toolbox)
+[![MySQL](https://img.icons8.com/fluent/48/000000/mysql-logo.png)](https://icons8.com/icon/9nLaR5KFGjN0/mysql-logo)
+![PostgreSQL Logo](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+[![Notepad++](https://img.icons8.com/color/48/000000/notepad-plus-plus.png)](https://icons8.com/icon/ztKGqjsWmeBH/notepad%2B%2B)
+[![Sublime Text](https://img.icons8.com/color/48/000000/sublime-text.png)](https://icons8.com/icon/6RHskkZGRABM/sublime-text)
+[![Stack Overflow](https://img.icons8.com/color/48/000000/stackoverflow.png)](https://icons8.com/icon/LnMweR0xWiV5/stack-overflow)
+[![GitHub](https://img.icons8.com/ios/50/000000/github.png)](https://icons8.com/icon/AZOZNnY73haj/github)
+[![Notion](https://img.icons8.com/color/48/000000/notion.png)](https://icons8.com/icon/KyMSnxjEVwCr/notion) 
+[![Power BI 2021](https://img.icons8.com/color/48/000000/power-bi.png)](https://icons8.com/icon/3sGOUDo9nJ4k/power-bi-2021)
+
+
+
+
 ## Proyectos Destacados
 
 - [Servicios Soap](https://github.com/scs1022/servicios)
