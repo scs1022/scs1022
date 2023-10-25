@@ -52,8 +52,10 @@ Here are some ideas to get you started:
 ## Proyectos Destacados
 
 - [Servicios Soap](https://github.com/scs1022/servicios)
+- [Cliente Soap](https://github.com/scs1022/clientesoap)
 - [Cliente de Soap en Python](https://github.com/scs1022/clientesoap)
 - [Web Telotapo](https://github.com/scs1022/webBaches)
+ 
 <!--
 ## Contribuciones
 
